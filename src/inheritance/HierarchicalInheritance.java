@@ -25,13 +25,13 @@ class Exam extends Stud{
 public class HierarchicalInheritance {
 
 	public static void main(String[] args) {
-		Exam e = new Exam();
+	Exam e = new Exam();
 		e.learning();
-		e.exam();
+		e.exam(); 
 		
-	/*	College c = new College();
+		College c = new College();
 		c.learning();
-		c.college(); */
+		c.college(); 
 		
 		
 

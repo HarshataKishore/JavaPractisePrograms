@@ -17,7 +17,7 @@ class Institutions extends Student{
 class Faculty extends Institutions{
 	public void faculty()
 	{
-		System.out.println("Faculty clarifie doubts");
+		System.out.println("Faculty clarifies doubts");
 
 	}
 }
